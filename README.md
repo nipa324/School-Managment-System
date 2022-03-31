@@ -1,1 +1,2 @@
-# School-Managment-System
+# School-Management-System
+Using PHP, MYSQL, CSS, JS, HTML
